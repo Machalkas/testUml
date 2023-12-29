@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T16:27:09.091Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GBra3yIqWTSZu8dEGgln" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T16:27:49.871Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_Hc4FycO5LH9jcKAZ90Z" version="22.1.15" type="github">
   <diagram name="Страница — 1" id="EyxvERi1Ct_qNI9Q7zBH">
     <mxGraphModel dx="1420" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Fccz3ym_lgGwZ9gB4bC4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fccz3ym_lgGwZ9gB4bC4-1" target="Fccz3ym_lgGwZ9gB4bC4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fccz3ym_lgGwZ9gB4bC4-1" value="first element" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fccz3ym_lgGwZ9gB4bC4-2" value="second element" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
